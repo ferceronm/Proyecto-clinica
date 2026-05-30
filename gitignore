@@ -1,0 +1,23 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos swap
+*.swp
+
+# Archivos de proyecto IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Archivos de Gradle
+.gradle/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
