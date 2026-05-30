@@ -1,0 +1,3 @@
+# Ignorar todos los archivos de datos CSV/JSON
+*.csv
+*.json
